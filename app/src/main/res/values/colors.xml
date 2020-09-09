@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#d20680</color>-->
+    <color name="colorPrimary">#1C191D</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#1e344b</color>
+
+    <color name="putih">#000000</color>
+<!--    <color name="bg">#fafafa</color>-->
+    <color name="bg">#ffffff</color>
+    <color name="textJudul">#262626</color>
+    <color name="colorTextSubtitle">#4e4e4e</color>
+</resources>
